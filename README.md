@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for some new projects to work on..
 - 💬 Ask me about anything you wish to know
 - 📫 How to reach me: yeshanyesh12@gmail.com
-- ⚡ Fun fact: I Love JavaScript and Python
+- ⚡ Fun fact: I Love JavaScript, Python and Java
