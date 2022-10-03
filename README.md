@@ -2,9 +2,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front End and Back end projects.
-- 🌱 I’m currently learning MERN Stack. (Mongo DB, Express, React, Node)
+- 🌱 I’m currently learning MERN Stack and ASP.NET.
 - 👯 I’m looking to collaborate on any type of team
 - 🤔 I’m looking for some new projects to work on..
 - 💬 Ask me about anything you wish to know
 - 📫 How to reach me: yeshanyesh12@gmail.com
-- ⚡ Fun fact: I Love JavaScript, Python and Java
+- ⚡ Fun fact: I Love JavaScript, Python, Java, ASP.NET and C#
